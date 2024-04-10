@@ -1,3 +1,9 @@
+#EXTM3U url-tvg="https://pastebin.com/5UPzyRyQ"
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://pastebin.com/vXHT7Y0K",
+"image": "https://i.postimg.cc/g281Yj4h/coollogo-com-10838101.gif",
+"telegram": "",
+"info": "BY TINTXI",
 #EXTM3U url="https://pastebin.com/raw/jD0Uv6ce"
 TV Mîx de Pepe
 #EXTINF:-1 tvg-name="ES: M+ DAZN 1 SD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES  DAZN",ES: M+ DAZN 1 SD
